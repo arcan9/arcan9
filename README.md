@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ash / @arcan9
-- 👀 I’m interested in nicely designed webpages
 - 🌱 I’m currently learning HTML/CSS/Javascript
-- 🎨 I want to improve in CSS styling to build attractive sites
+- 🎨 I want to build responsive sites with attractive UIs
 - 🙌 Hobbies (aside learning to code): playing video games, drawing, and playing with my cats 🐱
 
 
