@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ash / @arcan9
 - 🌱 I’m currently learning HTML/CSS/Javascript
-- 🎨 I want to build responsive sites with attractive UIs
+- 🎨 I want to build interactive sites and games
 - 🙌 Hobbies (aside learning to code): playing video games, drawing, and playing with my cats 🐱
 
 
