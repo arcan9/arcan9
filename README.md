@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ash / @arcan9
-- 🌱 I’m currently learning HTML/CSS/Javascript
-- 🎨 I want to build dynamic pages and games
-- 🙌 Hobbies (aside learning to code): playing video games, drawing, and playing with my cats 🐱
+- 🌱 Front-end dev
+- 🎨 Excited to build dynamic pages and games
+- 🙌 Hobbies (aside coding): playing video games, drawing, and playing with my cats 🐱
 
 
 <!---
