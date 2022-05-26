@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ash. Feel free to browse my projects.
-- 🌱 Front-end dev
+- 🌱 Front-end dev and SheCodes Alum of 2022
 - 🧠 Currently trying to hone my skills in Javascript. I like making things work
 - 🎨 Excited to build dynamic pages and games
 - 🙌 Hobbies (aside coding): playing video games, drawing, and playing with my cats 🐱
