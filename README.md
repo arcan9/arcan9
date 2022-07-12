@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ash. Feel free to browse my projects (I'm still learning!).
 - 🧠 Currently trying to hone my skills in Javascript. I like making things work
 - 🎨 Excited to build dynamic pages and eventually games
-- 🙌 Hobbies (aside coding): playing video games, drawing, and spending time with cats 🐱
+- 🙌 Non-tech hobbies: playing video games, drawing, and spending time with cats 🐱
 
 
 <!---
