@@ -1,5 +1,5 @@
 Hi, I'm Ashelle, a front-end web developer and art hobbyist, who loves to learn about new things.
-# Technologies:
+### Technologies:
 - HTML5
 - CSS3
 - JavaScript ES5/ES6
