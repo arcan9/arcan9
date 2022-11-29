@@ -3,6 +3,7 @@ Hi, I'm Ashelle, a front-end web developer and art hobbyist, who loves to learn 
 - HTML5
 - CSS3
 - JavaScript ES5/ES6
+- React JS
 
 <!---
 - 💞️ I’m looking to collaborate on ...
