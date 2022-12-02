@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="180"/>
 </div>
 
 <div id="badges" align="center">
@@ -10,23 +10,26 @@
 </div>
 
 <h1 align="center">Heya! </h1>
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.imgur.com/WO0uk3E.jpg" width="600"/>
+</div> -->
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arcan9&hide=contribs,stars,issues&show_icons=true&count_private=true&theme=tokyonight" />
+  </a>
 </div>
 
-### About Me:
+## About Me:
 
-I'm Ashelle, a web developer with a background in art, who loves to learn about new things. (profile still a work in progress 👀...)
+📝 I'm Ashelle, an illustrator turned developer, who loves to learn new things. As someone who originated in the arts, I naturally gravitate towards the front-end side of development, where I can tinker with the UI and design, though I also have experience with the backend.
 
-#### Technologies:
-- HTML5
-- CSS3
-- JavaScript ES5/ES6
-- React JS
+💻 My goal as a developer is to continue learning not just to be better at coding, but to implement better user experience. 
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-arcan9/arcan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Experienced in:
+- 👩‍💻 `.html`, `.css`, `.js`, `.jsx`
+- 🎨 `.psd`, `.procreate`, `.clip`
+- 🛠 Node.js, Express, Babel, Webpack, npm, PostgreSQL, Bootstrap, Git, GitHub
+
+
+
