@@ -16,10 +16,9 @@
 
 ## About Me:
 
-<img width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align=right alt="girl using laptop with iconographies of applications floating above her, and a cat walking past">
-
 - 🎨➡💻 Illustrator turned developer, who loves to learn new things.
 - 🔧 Coming from the creative world, I love tinkering with the front-end side of things.
+  <img width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align=right alt="girl using laptop with iconographies of applications floating above her, and a cat walking past">
 - 🐱‍💻 But I also have experience with backend~
 - 💆‍♀️ Interested in creating a better user experience.
 - 🥅 Goals: continue to improve in React; learn motion design/graphics; write a novel
