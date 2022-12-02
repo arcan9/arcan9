@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-EXPRESS-000?logo=express&logoColor=white" alt="express"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white" alt="VScode"/>
   <br>
-  <img src="https://img.shields.io/badge/-AWS S3-000?logo=amazonaws&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/-AWS S3-000?logo=amazonaws&logoColor=DD8A2D" alt="github"/>
   <img src="https://img.shields.io/badge/-Babel-444?logo=babel&logoColor=yellow" alt="babel"/>
   <img src="https://img.shields.io/badge/-Webpack-2B3A42?logo=webpack&logoColor=8DD6F9" alt="webpack"/>
   <img src="https://img.shields.io/badge/-npm-BC432B?logo=npm&logoColor=white" alt="npm"/>
