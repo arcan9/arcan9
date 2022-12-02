@@ -19,11 +19,13 @@
 
 - 🎨➡💻 Illustrator turned developer, who loves to learn new things.
 - 🔧 Coming from the creative world, I love tinkering with the front-end.
-- 🐱‍💻 But I also have experience with backend~
+- 🐱‍💻 But I also have experience with the backend~
 - 💆‍♀️ Interested in creating a better user experience.
-- 🥅 Goals: continue to improve in React; learn motion design/graphics; write a novel
+- 🥅 Goals: 
+  - continue to improve in React 
+  - learn motion design/graphics
+  - write a novel
 - 🤍 Little known facts: cat admirer, kpop enthusiast, puzzle games appreciator
-<br>
 <hr>
 <div class="tech" align=center>
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white" alt="html5"/>
