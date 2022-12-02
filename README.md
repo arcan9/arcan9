@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white" alt="github"/>
   <br>
   <img src="https://img.shields.io/badge/-Procreate-DF62DB?logo=&logoColor=white" alt="Procreate"/>
-  <img src="https://img.shields.io/badge/-Clip Studio Paint-ccc?logo=clipstudiopaint&logoColor=white" alt="Procreate"/>
-  <img src="https://img.shields.io/badge/-Adobe Photoshop-000?logo=adobephotoshop&logoColor=blue" alt="Procreate"/>
+  <img src="https://img.shields.io/badge/-Clip Studio Paint-ccc?logo=clipstudiopaint&logoColor=white" alt="Clip Studio Paint"/>
+  <img src="https://img.shields.io/badge/-Adobe Photoshop-000?logo=adobephotoshop&logoColor=blue" alt="Adobe Photoshop"/>
 </div>
 <br>
 <div align=center>
