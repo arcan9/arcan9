@@ -6,7 +6,8 @@
   <a href="https://www.linkedin.com/in/ashelle-cancio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Resume-lightgrey?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
 </div>
 
 <h1 align="center">Hi! I'm Ashelle</h1>
