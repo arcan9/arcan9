@@ -23,7 +23,7 @@
 - 🐱‍💻 But I also have experience with the backend~
 - 💆‍♀️ Interested in creating a better user experience.
 - 🥅 Goals: 
-  - continue to improve in React 
+  - continue to work with and improve in React 
   - learn motion design/graphics
   - write a novel
 - 🤍 Little known facts: cat admirer, kpop enthusiast, puzzle games appreciator
