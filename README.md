@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://drive.google.com/file/d/1R6q-arFo4lcP1iOnJSDZvVZbGHN9lXNS/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-lightgrey?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
+  </a>
 </div>
 
 <h1 align="center">Hi! I'm Ashelle</h1>
