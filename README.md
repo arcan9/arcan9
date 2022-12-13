@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi! I'm Ashelle</h1>
+<h1 align="center">Thanks for stopping by!</h1>
 <!-- <div align="center">
   <img src="https://i.imgur.com/WO0uk3E.jpg" width="600"/>
 </div> -->
