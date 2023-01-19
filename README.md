@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-Adobe Photoshop-000?logo=adobephotoshop&logoColor=blue" alt="Adobe Photoshop"/>
 </div>
 <br>
-<div align=center>
+<!-- <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arcan9&hide=contribs,stars,issues&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
   </a>
@@ -72,3 +72,4 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=arcan9&repo=nekkoh&theme=tokyonight" alt="Nekkoh full stack application">
 </div>
 </details>
+ -->
