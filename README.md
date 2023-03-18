@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/> -->
-  <a href="https://drive.google.com/file/d/134oXVtw6QYcQKObhv6BGo3Ym2gCdDWBR/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1GPpIu3OYLBTFKHVz0z0mGpisLKMRZHyB/view?usp=share_link">
     <img src="https://img.shields.io/badge/Resume-lightgrey?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
